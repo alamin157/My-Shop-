@@ -34,3 +34,6 @@
 <aside class="panel" id="panel" role="dialog" aria-modal="true"></aside>
 
 <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.45.4/dist/umd/supabase.js"></script>
+<script src="script.js"></script>
+</body>
+</html>

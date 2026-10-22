@@ -1,4 +1,12 @@
-# index.html
+# <!DOCTYPE html>
+<html lang="bn">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>আমার দোকান</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
 <svg width="0" height="0" style="position:absolute" aria-hidden="true">
 <symbol id="tee" viewBox="0 0 100 120"><path d="M30 10 10 28l10 14 8-6v72h44V36l8 6 10-14L70 10Q50 24 30 10Z" fill="currentColor"/></symbol>
 <symbol id="dress" viewBox="0 0 100 120"><path d="M38 8h24l-2 32 18 72H22l18-72Z" fill="currentColor"/></symbol>
